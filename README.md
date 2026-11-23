@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hey, I'm Eneyaa! 👋
 
-<!--
-**eneyaa/eneyaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 First-year Computer Science undergraduate  
+💻 Exploring software development, problem-solving and computer science.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Currently learning Python and Data Structures & Algorithms.
+- Building projects to strengthen my programming skills.
+- Interested in exploring different areas of computer science.
+- Always curious about how things work and how to build better solutions.
+
+## 🛠️ Technologies
+
+**Languages:** Python, JavaScript  
+**Web Development:** HTML, CSS, React  
+**Tools:** Git, GitHub, VS Code
+
+## 💡 Projects
+
+### 🧪 Bug Necromancer
+An experimental event-forensics tool that analyses software logs and detects suspicious patterns.
+
+### 💰 Student Expense Tracker
+A beginner-friendly application for tracking student expenses.
+
+### 📚 Flashcard Learning Website
+A web application designed to make studying more effective through digital flashcards and active recall.
+
+## 📚 Currently Learning
+
+- Data Structures & Algorithms
+- Python programming
+- Problem-solving
+- Computer Science fundamentals
+
+
